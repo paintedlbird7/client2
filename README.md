@@ -1,2 +1,2 @@
-# client2 GigaPets Group Project 
+# client2 GigaPets
 Rosa Perez
